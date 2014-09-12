@@ -1,0 +1,1 @@
+This is my solution for removing character that the user specifies from a string.
